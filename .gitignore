@@ -13,3 +13,16 @@ venv/
 # System files
 .DS_Store
 Thumbs.db
+
+# Environment / secrets
+.env
+*.env
+
+# Python test cache
+.pytest_cache/
+coverage.xml
+htmlcov/
+
+# Docker
+*.log
+docker-compose.override.yml
