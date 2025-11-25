@@ -56,7 +56,7 @@ python app/app.py
 Powinieneś zobaczyć komunikat: "Hello from DevOps"
 
 
-🧪 Testy
+Testy
 
 Uruchom testy przy użyciu pytest:
 
