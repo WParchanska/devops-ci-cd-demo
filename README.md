@@ -1,10 +1,10 @@
-# 🛠️ DevOps CI/CD Demo
+#  DevOps CI/CD Demo
 
 Mini-projekt pokazujący **Python + Flask** w kontekście **DevOps i CI/CD**.
 
 ---
 
-## 🔹 Cel projektu
+##  Cel projektu
 
 - Pokazać podstawy tworzenia aplikacji webowej w Python + Flask  
 - Przygotować projekt pod **CI/CD** (testy + automatyzacja)  
@@ -12,7 +12,7 @@ Mini-projekt pokazujący **Python + Flask** w kontekście **DevOps i CI/CD**.
 
 ---
 
-## 📁 Struktura projektu
+##  Struktura projektu
 
 devops-ci-cd-demo/
 ├── app/
@@ -27,7 +27,7 @@ devops-ci-cd-demo/
 
 ---
 
-## ⚡ Uruchomienie lokalnie
+##  Uruchomienie lokalnie
 
 1. **Sklonuj repozytorium:**
 
